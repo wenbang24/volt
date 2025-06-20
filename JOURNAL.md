@@ -15,3 +15,8 @@ total time (so far): 0 hrs
 Time spent: 2 hrs
 
 ## 2025-06-18
+- Made symbols & footprints for the components
+
+(will add images later when kicad starts working again hopefully)
+
+Time spent: 3 hrs
