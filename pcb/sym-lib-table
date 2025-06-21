@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VoltLibrary")(type "KiCad")(uri "${KIPRJMOD}/VoltLibrary.kicad_sym")(options "")(descr ""))
+)

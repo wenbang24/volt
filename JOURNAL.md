@@ -15,11 +15,19 @@ total time (so far): 0 hrs
 Time spent: 2 hrs
 
 ## 2025-06-18
+- Found specific components to use
 - Made symbols & footprints for the components
+- Started researching how to make an amplifier circuit
 
-(will add images later when kicad starts working again hopefully)
+![image](img/u1.png)
+![image](img/u2.png)
 
 Time spent: 3 hrs
 
 ## 2025-06-21
-- Fixed pin orientation
+- Fixed pin orientation of bluetooth module
+- Made v1 of schematic (partial reference design [here](https://2.bp.blogspot.com/-1wqxx-jvaGM/V-nGi2WOsvI/AAAAAAAAA0s/gCCoJ27efYsKQ02fjROY2QzsP2jolWZbACLcB/s1600/HiFi%2BPreAmp%2BCircuit%2BSchematic.jpg))
+
+![image](img/schematicv1.png)
+
+Time spent: 7 hrs (yeah it was not easy :|)
