@@ -20,3 +20,6 @@ Time spent: 2 hrs
 (will add images later when kicad starts working again hopefully)
 
 Time spent: 3 hrs
+
+## 2025-06-21
+- Fixed pin orientation
