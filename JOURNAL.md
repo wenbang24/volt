@@ -31,3 +31,14 @@ Time spent: 3 hrs
 ![image](img/schematicv1.png)
 
 Time spent: 7 hrs (yeah it was not easy :|)
+
+## 2025-06-21
+- Footprints, footprints, footprints
+- First draft of PCB (awaiting review)
+- Minor edits to schematic
+
+![image](img/schematicv1.1.png)
+![image](img/pcbv1_1.png)
+![image](img/pcbv1_2.png)
+
+Time spent: 5 hrs
