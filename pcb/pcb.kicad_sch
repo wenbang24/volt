@@ -7635,10 +7635,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3fab521c-b625-46f7-8703-9c77a418f6a2")
+			(uuid "3fab521c-b625-46f7-8703-9c77a418f6a3")
 		)
 		(pin "2"
-			(uuid "ffe60690-4182-454f-a70c-220ce971b5fa")
+			(uuid "ffe60690-4182-454f-a70c-220ce971b5fb")
 		)
 		(instances
 			(project ""

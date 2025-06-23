@@ -50,3 +50,18 @@ Time spent: 5 hrs
 ![image](img/schematicv2.png)
 
 Time spent: 4 hrs
+
+## 2025-06-23
+- Installed LTSpice
+- Built the circuit in LTSpice
+- Simulated the circuit
+- Tried a lot of different values for the components
+- Added an RC filter to the output
+- Still not working :|
+
+![image](img/sim1_1.png)
+![image](img/sim1_2.png)
+![image](img/sim1_3.png)
+![image](img/sim1_4.png)
+
+Time spent: 6 hrs
