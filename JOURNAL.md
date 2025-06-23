@@ -42,3 +42,11 @@ Time spent: 7 hrs (yeah it was not easy :|)
 ![image](img/pcbv1_2.png)
 
 Time spent: 5 hrs
+
+## 2025-06-22
+- Added distortion circuit
+- Started figuring out how SPICE simulations work
+
+![image](img/schematicv2.png)
+
+Time spent: 4 hrs
