@@ -65,3 +65,13 @@ Time spent: 4 hrs
 ![image](img/sim1_4.png)
 
 Time spent: 6 hrs
+
+## 2025-06-24
+- Fixed distortion circuit
+- Changed pre-amp stage
+- Added voltage cap (max ~1.9VPP now)
+
+![image](img/sim2_1.png)
+![image](img/sim2_2.png)
+
+Time spent: 4 hrs
