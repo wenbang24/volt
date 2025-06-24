@@ -70,8 +70,12 @@ Time spent: 6 hrs
 - Fixed distortion circuit
 - Changed pre-amp stage
 - Added voltage cap (max ~1.9VPP now)
+- Changed to LDO for 9V to 5V conversion
+- Rebuilt schematic in KiCad
+- Researched some parts
 
 ![image](img/sim2_1.png)
 ![image](img/sim2_2.png)
+![image](img/schematicv3.png)
 
-Time spent: 4 hrs
+Time spent: 7 hrs

@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "VoltFootprints")(type "KiCad")(uri "${KIPRJMOD}/VoltFootprints.pretty")(options "")(descr ""))
   (lib (name "TL072CN")(type "KiCad")(uri "${KIPRJMOD}/TL072CN")(options "")(descr ""))
+  (lib (name "LM7805MP_NOPB")(type "KiCad")(uri "${KIPRJMOD}/LM7805MP_NOPB")(options "")(descr ""))
 )

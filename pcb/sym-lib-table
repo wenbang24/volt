@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "VoltLibrary")(type "KiCad")(uri "${KIPRJMOD}/VoltLibrary.kicad_sym")(options "")(descr ""))
   (lib (name "TL072CN")(type "KiCad")(uri "${KIPRJMOD}/TL072CN/TL072CN.kicad_sym")(options "")(descr ""))
+  (lib (name "LM7805MP_NOPB")(type "KiCad")(uri "${KIPRJMOD}/LM7805MP_NOPB/LM7805MP_NOPB.kicad_sym")(options "")(descr ""))
 )
