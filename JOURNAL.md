@@ -73,9 +73,21 @@ Time spent: 6 hrs
 - Changed to LDO for 9V to 5V conversion
 - Rebuilt schematic in KiCad
 - Researched some parts
+- Added TRRS jack for headphone output
 
 ![image](img/sim2_1.png)
 ![image](img/sim2_2.png)
-![image](img/schematicv3.png)
+![image](img/schematicv3.1.png)
 
 Time spent: 7 hrs
+
+## 2025-06-29
+- Set up Windows LTSpice using Wine
+- Small changes to schematic
+- Routed PCB
+
+![image](img/schematicv3.2.png)
+![image](img/pcbv2_1.png)
+![image](img/pcbv2_2.png)
+
+Time spent: 5 hrs
