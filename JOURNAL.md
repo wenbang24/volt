@@ -85,9 +85,12 @@ Time spent: 7 hrs
 - Set up Windows LTSpice using Wine
 - Small changes to schematic
 - Routed PCB
+- Made case (its so cool that you can import an image, resize it, and trace it to model parts lol)
 
 ![image](img/schematicv3.2.png)
 ![image](img/pcbv2_1.png)
 ![image](img/pcbv2_2.png)
+![image](img/casev1.png)
+![image](img/render.png)
 
-Time spent: 5 hrs
+Time spent: 7 hrs
