@@ -3094,9 +3094,9 @@
 		(at 29.21 66.04 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0031af57-4e0a-484f-944d-7351124e812a")
 		(property "Reference" "J2"
@@ -3198,9 +3198,9 @@
 		(at 44.45 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "014ab772-3612-4686-9836-7982c727054c")
 		(property "Reference" "J1"
@@ -3412,6 +3412,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 78.74 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25741"
 			(at 78.74 29.21 0)
 			(effects
 				(font
@@ -3640,7 +3649,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "232a4c4e-b714-4a52-b6dc-2908bf1e2b3d")
 		(property "Reference" "H2"
@@ -3705,9 +3714,9 @@
 		(at 93.98 68.58 0)
 		(unit 3)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "28ea1171-6ac1-4117-82e3-1f04e6a20668")
 		(property "Reference" "U1"
@@ -3879,6 +3888,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25741"
+			(at 154.94 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d92f352a-0f78-4764-a8ed-dc7f94ae5fb3")
 		)
@@ -3922,7 +3940,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 186.69 91.44 0)
 			(effects
 				(font
@@ -3941,6 +3959,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 186.69 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C883598"
 			(at 186.69 91.44 0)
 			(effects
 				(font
@@ -4077,6 +4104,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 186.69 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23733"
 			(at 186.69 81.28 0)
 			(effects
 				(font
@@ -4238,9 +4274,9 @@
 		(at 74.93 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3be11bc3-33f1-4fbb-890d-7e6969f6df72")
 		(property "Reference" "U1"
@@ -4360,9 +4396,9 @@
 		(at 134.62 68.58 0)
 		(unit 2)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "42308d72-4ae5-4eb1-9dbf-11744e033c8a")
 		(property "Reference" "U1"
 			(at 134.62 58.42 0)
@@ -4531,6 +4567,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25741"
+			(at 52.07 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4bf23865-51c8-445c-9502-ed5f607c2441")
 		)
@@ -4553,7 +4598,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "458c18c8-bbae-4c12-bbf8-2a50d843e72b")
 		(property "Reference" "H3"
@@ -4631,7 +4676,7 @@
 				)
 			)
 		)
-		(property "Value" "5k"
+		(property "Value" "4k7"
 			(at 60.96 77.47 90)
 			(effects
 				(font
@@ -4659,6 +4704,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 60.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
+			(at 60.96 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4736,6 +4790,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 96.52 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9ce2487-b0ca-4229-8054-338b15135f08")
 		)
@@ -4798,6 +4861,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 105.41 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25767"
 			(at 105.41 72.39 0)
 			(effects
 				(font
@@ -4905,7 +4977,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "62eb21ed-27dc-4599-9b1b-07f5a00e9061")
 		(property "Reference" "H1"
@@ -5084,6 +5156,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23733"
+			(at 101.6 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "20de9f5f-850d-482c-98cf-334f18bac603")
 		)
@@ -5212,6 +5293,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 139.7 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C16772"
 			(at 139.7 38.1 0)
 			(effects
 				(font
@@ -5394,7 +5484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 105.41 53.34 0)
 			(effects
 				(font
@@ -5413,6 +5503,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 105.41 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1954938"
 			(at 105.41 53.34 0)
 			(effects
 				(font
@@ -5557,6 +5656,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25741"
+			(at 78.74 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85f37553-a632-49f5-a708-572c02fe13a5")
 		)
@@ -5599,7 +5707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 105.41 80.01 0)
 			(effects
 				(font
@@ -5618,6 +5726,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 105.41 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1954938"
 			(at 105.41 80.01 0)
 			(effects
 				(font
@@ -5726,7 +5843,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 162.56 39.3762 0)
 			(effects
 				(font
@@ -5754,6 +5871,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 160.02 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 160.02 38.1 0)
 			(effects
 				(font
@@ -5823,6 +5949,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 160.02 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 160.02 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5997,9 +6132,9 @@
 		(at 212.09 66.04 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "aa7c0d73-0f08-4bdf-b571-b112bc24566c")
 		(property "Reference" "U2"
@@ -6011,7 +6146,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "BT"
 			(at 213.36 81.28 0)
 			(effects
 				(font
@@ -6268,6 +6403,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 165.1 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
 			(at 165.1 73.66 0)
 			(effects
 				(font
@@ -6542,6 +6686,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25744"
+			(at 123.19 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7d26037f-ddf0-4492-a926-ea440453b8c2")
 		)
@@ -6676,6 +6829,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14445"
+			(at 151.13 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3ead9d58-6138-48e0-9802-e40dbfcc3b01")
 		)
@@ -6696,9 +6858,9 @@
 		(at 175.26 68.58 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dbf15ab8-3cb1-4957-8a09-64543232cf71")
 		(property "Reference" "RV1"
@@ -6896,6 +7058,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 96.52 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5170fc36-bdc7-4a06-bdc3-ef7999df2a55")
 		)
@@ -6918,7 +7089,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e84b98ff-e3de-479b-800b-ffb25efa4552")
 		(property "Reference" "H4"
@@ -7031,6 +7202,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25744"
+			(at 72.39 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4bf23865-51c8-445c-9502-ed5f607c2444")
 		)
@@ -7051,9 +7231,9 @@
 		(at 142.24 80.01 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f260c76e-7de5-43b5-bea2-999b636dd5d6")
 		(property "Reference" "RV2"
@@ -7238,7 +7418,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14445"
 			(at 48.26 66.04 90)
 			(effects
 				(font

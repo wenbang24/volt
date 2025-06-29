@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\users\ben_wang\Desktop\everything\Code\volt\pcb\Volt.net
-Start Time: Fri Jun 27 12:08:19 2025
+Start Time: Sun Jun 29 11:53:13 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -27,7 +27,7 @@ Gmin = 5.50104
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.093 seconds.
+Total elapsed time: 0.259 seconds.
 
 Files loaded:
 C:\users\ben_wang\Desktop\everything\Code\volt\pcb\Volt.net

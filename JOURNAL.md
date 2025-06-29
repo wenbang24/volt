@@ -83,14 +83,12 @@ Time spent: 7 hrs
 
 ## 2025-06-29
 - Set up Windows LTSpice using Wine
-- Small changes to schematic
-- Routed PCB
-- Made case (its so cool that you can import an image, resize it, and trace it to model parts lol)
+- Small changes to schematic ![image](img/schematicv3.2.png)
+- Routed PCB ![image](img/pcbv2_1.png) ![image](img/pcbv2_2.png)
+- Made case (its so cool that you can import an image, resize it, and trace it to model parts lol) ![image](img/casev1.png)
+- Changed some capacitor footprints to obey the laws of physics ![image](img/pcbv2.1.png)
+- Made BOM and selected components from LCSC
 
-![image](img/schematicv3.2.png)
-![image](img/pcbv2_1.png)
-![image](img/pcbv2_2.png)
-![image](img/casev1.png)
-![image](img/render.png)
+![image](img/render_1.png)
 
-Time spent: 7 hrs
+Time spent: 9 hrs
