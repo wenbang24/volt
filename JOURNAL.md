@@ -5,7 +5,7 @@ description: "A bluetooth guitar amp for portable playing"
 created_at: "2025-06-17"
 ---
 
-total time (so far): 44 hrs
+total time (so far): 47 hrs
 
 ## 2025-06-17
 - Researched how guitar amps work
@@ -82,14 +82,15 @@ Time spent: 6 hrs
 Time spent: 7 hrs
 
 ## 2025-06-26 & 2025-06-29
-(i went to Sydney for two days and forgot to journal)
+(i went to Sydney for two days and forgot to journal but i came back and locked in)
 - Set up Windows LTSpice using Wine
 - Small changes to schematic ![image](img/schematicv3.2.png)
 - Routed PCB ![image](img/pcbv2_1.png) ![image](img/pcbv2_2.png)
 - Made case (its so cool that you can import an image, resize it, and trace it to model parts lol) ![image](img/casev1.png)
 - Changed some capacitor footprints to obey the laws of physics ![image](img/pcbv2.1.png)
 - Made BOM and selected components from LCSC
+- Made logo ![image](img/logo.png)
+- Added silkscreen art ![image](img/pcbv2.2_1.png) ![image](img/pcbv2.2_2.png)
+- Rendered case ![image](img/render_1.png)
 
-![image](img/render_1.png)
-
-Time spent: 10 hrs
+Time spent: 13 hrs
