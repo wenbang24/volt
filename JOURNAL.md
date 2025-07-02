@@ -5,7 +5,7 @@ description: "A bluetooth guitar amp for portable playing"
 created_at: "2025-06-17"
 ---
 
-total time (so far): 47 hrs
+total time (so far): 47.5 hrs
 
 ## 2025-06-17
 - Researched how guitar amps work
@@ -94,3 +94,8 @@ Time spent: 7 hrs
 - Rendered case ![image](img/render_1.png)
 
 Time spent: 13 hrs
+
+## 2025-07-02
+- Added links to BOM
+
+Time spent: 30 mins
