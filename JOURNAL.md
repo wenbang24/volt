@@ -99,3 +99,9 @@ Time spent: 13 hrs
 - Added links to BOM
 
 Time spent: 30 mins
+
+## 2025-07-03
+- Added connect button breakout
+- Bought stuff
+
+Time spent: 1 hr

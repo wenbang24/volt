@@ -2581,6 +2581,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 66.04) (xy 195.58 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b27efb-a521-4dc9-8daf-cbf3b9c8099c")
+	)
+	(wire
+		(pts
 			(xy 78.74 31.75) (xy 78.74 33.02)
 		)
 		(stroke
@@ -3021,6 +3031,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 66.04) (xy 195.58 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb6b08db-4024-4691-9326-3f0d37b2e1d1")
+	)
+	(wire
+		(pts
 			(xy 149.86 40.64) (xy 160.02 40.64)
 		)
 		(stroke
@@ -3096,7 +3116,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0031af57-4e0a-484f-944d-7351124e812a")
 		(property "Reference" "J2"
@@ -3200,7 +3220,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "014ab772-3612-4686-9836-7982c727054c")
 		(property "Reference" "J1"
@@ -3512,6 +3532,72 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
+		(at 191.77 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c95816c-20e5-4d96-916f-99de892328a5")
+		(property "Reference" "#PWR017"
+			(at 191.77 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 191.643 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 191.77 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e14c0e67-1ab8-4b30-8516-5560d864638f")
+		)
+		(instances
+			(project ""
+				(path "/fa437513-580b-4437-95f6-57bf94b875e3"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
 		(at 165.1 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3716,7 +3802,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28ea1171-6ac1-4117-82e3-1f04e6a20668")
 		(property "Reference" "U1"
@@ -4276,7 +4362,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3be11bc3-33f1-4fbb-890d-7e6969f6df72")
 		(property "Reference" "U1"
@@ -4398,7 +4484,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "42308d72-4ae5-4eb1-9dbf-11744e033c8a")
 		(property "Reference" "U1"
 			(at 134.62 58.42 0)
@@ -6128,13 +6214,81 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 186.69 68.58 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c99cdf7-92b5-4036-a4f1-6d0d90350893")
+		(property "Reference" "J3"
+			(at 186.69 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 186.69 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 186.69 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 186.69 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ad30958-8483-4678-8efd-2d15e67d4aec")
+		)
+		(pin "2"
+			(uuid "7cbac1a2-cba9-42f1-9e1d-28db9905fccc")
+		)
+		(instances
+			(project ""
+				(path "/fa437513-580b-4437-95f6-57bf94b875e3"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "VoltLibrary:BluetoothTransmitter")
 		(at 212.09 66.04 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa7c0d73-0f08-4bdf-b571-b112bc24566c")
 		(property "Reference" "U2"
@@ -6860,7 +7014,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbf15ab8-3cb1-4957-8a09-64543232cf71")
 		(property "Reference" "RV1"
@@ -7233,7 +7387,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f260c76e-7de5-43b5-bea2-999b636dd5d6")
 		(property "Reference" "RV2"
