@@ -105,3 +105,13 @@ Time spent: 30 mins
 - Bought stuff
 
 Time spent: 1 hr
+
+## 2025-07-15
+- Parts are here!
+- Soldered the PCB
+- Modded the TS connector to fit my guitar because the output socket is inset into the body (first time dealing with sparks lmao)
+- It connects to my computer but no audio comes through :(, yet to connect it to a speaker (how do i even do that)
+
+![image](img/build_1.png)
+
+Time spent: 4 hrs
